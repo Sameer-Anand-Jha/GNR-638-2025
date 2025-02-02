@@ -1,6 +1,8 @@
 # Assignment 1 Submission - GNR 638 (2025)
 
-This repository contains the submission for **Assignment 1** of the course **GNR 638** (2025).  
+This repository contains the submission for **Assignments** of the course **GNR 638** (2025).  
+The first Assignment is in the Repository itself and not in the Assignment 1 folder. Rest of the Assignments are in their respective folders.
+
 
 ## Team Members:
 - **Neha Shahu** (Roll Number: 24M2159)  
