@@ -10,5 +10,5 @@
 
 ##### Tried the experiment for 6 optimizers. Adam performed arguably better than the rest. The setup was fixed at 100 epochs and UC Merced Dataset was Used.
 
-![Loss Curve](https://raw.githubusercontent.com/username/repository/main/images/loss_curve.png)
+![Loss Curve](Assignment 4/Epoch vs Loss.png)
 
