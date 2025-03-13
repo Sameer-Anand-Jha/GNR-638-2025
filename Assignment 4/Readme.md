@@ -10,4 +10,4 @@
 
 ##### Tried the experiment for 6 optimizers. Adam performed arguably better than the rest. The setup was fixed at 100 epochs and UC Merced Dataset was Used.
 
-![Alt Text](Assignment 4/Epoch vs Loss.png)
+![Alt Text](Epoch vs Loss.png)
